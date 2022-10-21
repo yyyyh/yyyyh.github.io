@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n,a}from"./app.a5bc030f.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"idocs/frontrule/named/index.md"}'),o={name:"idocs/frontrule/named/index.md"},s=a("p",null,"named",-1),r=[s];function c(d,i,_,l,p,m){return n(),t("div",null,r)}const x=e(o,[["render",c]]);export{u as __pageData,x as default};

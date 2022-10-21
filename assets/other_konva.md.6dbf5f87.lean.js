@@ -1,1 +1,0 @@
-import{_ as a,c as t,o,b as e}from"./app.a5bc030f.js";const k=JSON.parse('{"title":"Konva","description":"","frontmatter":{},"headers":[],"relativePath":"other/konva.md"}'),n={name:"other/konva.md"},c=e("",7),r=[c];function s(d,p,_,i,h,v){return o(),t("div",null,r)}const m=a(n,[["render",s]]);export{k as __pageData,m as default};
